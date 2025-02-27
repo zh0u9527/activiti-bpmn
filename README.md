@@ -5,7 +5,8 @@ activiti-bpmn demo，主要用于测试bpmn配置不当是rce。
 
 看具体情况，使用Xml2Json将xml转成Json格式；使用Json2Xml将json转换为xml格式。
 
-可以参考：
+参考：
+
 https://github.com/wangsz05/LearnDemo/tree/master/ActivitiDemo/ActivitiScriptDemo
 
 https://9bie.org/index.php/archives/954/

@@ -1,5 +1,5 @@
 # activiti-bpmn
-activiti-bpmn demo，主要用于测试bpmn配置不当是rce。
+activiti-bpmn demo，主要用于测试bpmn配置不当rce。
 
 在实战中如果遇到可以编辑并部署流程图的都可以实现rce。前端传递bpmn流程图可以有两种形式，xml和json格式。
 
